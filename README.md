@@ -1,6 +1,6 @@
 # IT Support Simulation Project (Home Lab)
 
-## ✅ Overview
+## Overview
 This project is a simulation of a real-world IT support environment using my virtual home lab, demonstrating core IT skills such as:
 - Active Directory setup
 - User and group management
@@ -13,7 +13,7 @@ This project is a simulation of a real-world IT support environment using my vir
 
 ---
 
-## 🛠️ Lab Setup
+## Lab Setup
 - **Virtualization Software:** VirtualBox / VMware Workstation Player
 - **Operating Systems:**
   - Windows Server 2025 (Domain Controller)
@@ -22,7 +22,7 @@ This project is a simulation of a real-world IT support environment using my vir
 
 ---
 
-## 🔑 Features Implemented
+## Features Implemented
 - **Active Directory Domain Services (AD DS)**
 - **User Creation & Permissions**
 - **Password Policies**
@@ -32,8 +32,8 @@ This project is a simulation of a real-world IT support environment using my vir
 
 ---
 
-## 📂 Project Structure
-📁 IT-Support-Simulation
+## Project Structure
+📁 IT-Support-Sim
 │── 📄 README.md
 │── 📁 Screenshots
 │── 📁 PowerShell-Scripts
@@ -47,7 +47,7 @@ This project is a simulation of a real-world IT support environment using my vir
 
 ---
 
-## ⚡ PowerShell Automation Highlights
+## PowerShell Automation Highlights
 - **Bulk User Creation**
 - **Password Policy Configuration**
 - **GPO Deployment**
