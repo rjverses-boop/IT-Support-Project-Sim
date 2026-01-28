@@ -1,0 +1,74 @@
+# IT Support Simulation Project
+**Designed and Implimented by:** Ryan Jackson
+**Github Repo:**
+**Date:** *Jan/2026*
+
+---
+
+## Table of Contents
+1. [Project Overview]
+2. [Lab Environment & Architecture]
+3. [Network Configuration]
+4. [Active Directory Deployment]
+5. [OU & GPO Design]
+6. [User & Group Management]
+7. [Powershell Automation]
+8. [Simulated IT Support Tickets]
+9. [Report & Logging]
+10. [Screenshots]
+11. [Key Learnings]
+12. [Appendix]
+
+---
+
+# Project Overview
+This project is a simulation of a complete enterprise style IT support environment using VirtualeBox, Windows Server, and Windows 11 clients. The goal was to demonstrate hands-on skills relevant to IT Support, Help Desk, and Junior System Administration roles, including:
+
+- Active Directory Deployment
+- DNS & Networking
+- User & Group Management
+- Group Policy (GPO) configuration
+- Security practices
+- Powershell automation
+- Realistic troubleshooting workflows
+
+This environment mirrors what real companies use and serves as a practical showcase of technical ability, documentation skills, and problem-solving.
+
+---
+
+# Lab Environment & Architecture
+
+### **VMs**
+- **Windows Server 2025** (Domain Controller, DNS)
+- **Windows 11 Clients 1&2**
+
+### **Services & Roles Installed**
+- Active Directory Domain Services (AD DS)
+- DNS Server
+- Group Policy Management
+
+### **Network Diagram**
+
+---
+
+# Network Configuration
+
+### **IP Scheme**
+| Device | IP Address | Role |
+|--------|------------|------|
+| DC     | 192.168.10.10 | AD Ds + DNS |
+| Client 1 | 192.168.10.11 | Workstation |
+| Client 2 | 192.168.10.12 | Workstation |
+
+### **Description**
+- Internal network used
+- All clients configured to use **192.168.10.10** as DNS
+- Verified connectivity with 'ping'
+
+### **Screenshots**
+
+---
+
+# Active Directory Deployment
+
+###
