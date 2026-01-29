@@ -107,7 +107,8 @@ This environment mirrors what real companies use and serves as a practical showc
 - Tested user logins
 
 ### **Screenshots**
-![alt text](<Screenshot 2026-01-27 154831.png>)
+<img width="413" height="187" alt="Screenshot 2026-01-28 185525" src="https://github.com/user-attachments/assets/cb9ccc84-d376-44d0-b324-4ca56a7b5de3" />
+
 # Powershell Automation
 
 ### **Scripts Implemented**
