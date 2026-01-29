@@ -54,7 +54,7 @@ This environment mirrors what real companies use and serves as a practical showc
 ### **IP Scheme**
 | Device | IP Address | Role |
 |--------|------------|------|
-| DC     | 192.168.10.10 | AD Ds + DNS |
+| DC     | 192.168.10.10 | AD DS + DNS |
 | Client 1 | 192.168.10.11 | Workstation |
 | Client 2 | 192.168.10.12 | Workstation |
 
@@ -78,7 +78,7 @@ This environment mirrors what real companies use and serves as a practical showc
 6. Verify login with domain credentials
 
 ### **Screenshots**
-![alt text](<Screenshot 2026-01-27 143836.png>) ![alt text](<Screenshot 2026-01-23 003749.png>) ![alt text](<Screenshot 2026-01-25 215130.png>) ![alt text](<Screenshot 2026-01-27 143646.png>)
+![alt text](<Screenshot 2026-01-27 143836.png>) ![alt text](<Screenshot 2026-01-23 003749.png>) ![alt text](<Screenshot 2026-01-27 143646.png>)
 ---
 
 ### **GPOs Implimented**
