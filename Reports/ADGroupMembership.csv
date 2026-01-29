@@ -1,1 +1,15 @@
-c:\Users\ryanc\OneDrive\Pictures\Screenshots 1\Screenshot 2026-01-28 202033.png c:\Users\ryanc\OneDrive\Pictures\Screenshots 1\Screenshot 2026-01-28 202012.png
+"Group","Name","SamAccountName"
+"Administrators","Domain Admins","Domain Admins" "Administrators","Enterprise Admins","Enterprise Admins" "Administrators","vboxuser","vboxuser" "Administrators","Administrator","Administrator" ''Users'',"Domain Users'',"Domain Users'' "Users","Authenticated Users","Authenticated Users" "Users","INTERACTIVE","INTERACTIVE"
+''Users'',"vboxuser'',"vboxuser'' "Guests","Domain Guests","Domain Guests" "Guests","Guest","Guest"
+"IIS_IUSRS","IUSR","IUSR"
+"Domain Computers","l.JINCLIENT1","l.JINCLIENT1$" "Domain Computers","l.JINCLINET2","l.JINCLINET2$"I "Domain Controllers","l.JINSERVER","l.JINSERVER$" "Schema Admins","Administrator","Administrator" "Enterprise Admins","Administrator","Administrator" "Domain Admins","Administrator","Administrator" "Domain Users","Administrator","Administrator" "Domain Users","vboxuser","vboxuser"
+"Domain Users","krbtgt","krbtgt" "Domain Users","Alice Johnson","alice.j" "Domain Users","Bob Park","bob.p"
+"Domain Users","Charlie Morgan","charlie.m" "Domain Guests","Guest","Guest"
+"Group Policy Creator Otvners","Administrator","Administrator"
+"Pre-Hindows 2000 Compatible Access","Authenticated Users","Authenticated Users"
+"Hindows Authorization Access Group","ENTERPRISE DOMAIN CONTROLLERS","ENTERPRISE DOMAIN CONTROLLERS"
+"Denied RODC Passtvord Replication Group","Read-only Domain Controllers","Read-only Domain Controllers" "Denied RODC Passtvord Replication Group","Group Policy Creator Otvners","Group Policy Creator Otvners" "Denied RODC Passtvord Replication Group","Domain Admins","Domain Admins"
+"Denied RODC Passtvord Replication Group","Cert Publishers","Cert Publishers" "Denied RODC Passtvord Replication Group","Enterprise Admins","Enterprise Admins" "Denied RODC Passtvord Replication Group","Schema Admins","Schema Admins"
+"Denied RODC Passtvord Replication Group","Domain Controllers","Domain Controllers"
+"Denied RODC Passtvord Replication Group","krbtgt","krbtgt
+"IT","Alice Johnson","alice.j" ''HR'',"Bob Park'',"bob.p'' "Finance","Charlie Morgan","charlie.m"
