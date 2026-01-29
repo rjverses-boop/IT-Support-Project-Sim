@@ -93,7 +93,8 @@ This environment mirrors what real companies use and serves as a practical showc
 - Domain - Password Policy
 
 ### **Screenshots**
-![alt text](<Screenshot 2026-01-27 155912.png>) ![alt text](<Screenshot 2026-01-27 233729.png>)
+<img width="1009" height="321" alt="image" src="https://github.com/user-attachments/assets/49bb2da5-ba03-4273-b9e1-f52184a390f6" />
+
 ---
 
 # User & Group Management
