@@ -108,6 +108,8 @@ This environment mirrors what real companies use and serves as a practical showc
 
 ### **Screenshots**
 <img width="413" height="187" alt="Screenshot 2026-01-28 185525" src="https://github.com/user-attachments/assets/cb9ccc84-d376-44d0-b324-4ca56a7b5de3" />
+<img width="404" height="186" alt="Screenshot 2026-01-28 185552" src="https://github.com/user-attachments/assets/11e16925-1083-4f89-b186-935ee0f12b66" />
+<img width="401" height="186" alt="Screenshot 2026-01-28 185605" src="https://github.com/user-attachments/assets/0f0ed0ef-6da9-443b-bd61-e4d086d909c3" />
 
 # Powershell Automation
 
