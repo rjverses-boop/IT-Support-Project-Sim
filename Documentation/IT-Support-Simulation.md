@@ -80,7 +80,8 @@ This environment mirrors what real companies use and serves as a practical showc
 6. Verify login with domain credentials
 
 ### **Screenshots**
-![alt text](<Screenshot 2026-01-27 143836.png>) ![alt text](<Screenshot 2026-01-23 003749.png>) ![alt text](<Screenshot 2026-01-27 143646.png>)
+<img width="844" height="613" alt="image" src="https://github.com/user-attachments/assets/733b323a-3413-4fab-a52f-3d90ac5a3a45" />
+
 ---
 
 ### **GPOs Implimented**
