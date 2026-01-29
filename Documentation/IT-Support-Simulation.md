@@ -65,6 +65,7 @@ This environment mirrors what real companies use and serves as a practical showc
 
 ### **Screenshots**
 <img width="682" height="292" alt="image" src="https://github.com/user-attachments/assets/1d3aaca0-7709-43df-bf4a-5a9654926f55" />
+<img width="687" height="291" alt="image" src="https://github.com/user-attachments/assets/b2be88c3-e354-4b7f-9016-9dcaa141d289" />
 
 ---
 
